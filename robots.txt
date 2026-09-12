@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shuvanshukumar9.github.io/my-first-project/sitemap.xml
